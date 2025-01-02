@@ -1,4 +1,8 @@
-## Welcome to AsterixTech!
+<div align="center">
+  <p>Welcome to Official Organization</p>
+  <h1>Asterix Technology</h1>
+  <img src="https://github.com/user-attachments/assets/dbc964fd-6b00-4a0f-b553-7e05ed9c02bc" />
+</div>
 
 <!--
 
