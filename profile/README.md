@@ -4,6 +4,11 @@
   <img src="https://github.com/user-attachments/assets/dbc964fd-6b00-4a0f-b553-7e05ed9c02bc" />
 </div>
 
+Asterix Technology adalah sebuah komuitas IT & Pemrograman di Indonesia. Kami bekerja secara open source demi kemajuan bersama.
+
+## Resources
+- nothing
+
 <!--
 
 **Here are some ideas to get you started:**
