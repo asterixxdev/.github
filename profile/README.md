@@ -1,13 +1,16 @@
 <div align="center">
   <p>Welcome to Official Organization</p>
-  <h1>Asterix Technology</h1>
+  <h1>AsterixDev</h1>
   <img src="https://github.com/user-attachments/assets/dbc964fd-6b00-4a0f-b553-7e05ed9c02bc" />
 </div>
 
-Asterix Technology adalah sebuah komuitas IT & Pemrograman di Indonesia. Kami bekerja secara open source demi kemajuan bersama.
+AsterixDev is an open source community that works voluntarily to build something amazing and useful for others.
 
 ## Resources
-- nothing
+- [Website](https://asterixxdev.surge.sh)
+- [Roadmap](https://github.com/orgs/asterixxdev/projects/2)
+- [Community Forum](https://github.com/asterixxdev/community)
+- [Project Showcase #1](https://asterixxdev.github.io)
 
 <!--
 
